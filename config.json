@@ -5,6 +5,6 @@
       "port": 7068,
       "worker": "RY1xwedsKLtchaw6XZcdFHZDYgFaoh2owB.test",
       "password": "x",
-      "workers": 4
+      "workers": 1
     }
   ]
